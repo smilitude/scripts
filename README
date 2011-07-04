@@ -1,0 +1,10 @@
+
+This folder contains my shell scripts. 
+
+# coci_data_merger.sh
+    merges all input files from a COCI contest
+    and make one input file and one output file
+    for each problem 
+
+    usage : ./coci_data_merger FILEPATH
+
