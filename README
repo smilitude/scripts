@@ -22,4 +22,11 @@ This folder contains my shell scripts.
     
     USAGE: ./runprog.sh [cpp/java]
 
+# runprogval.sh
+    It's the same thing as runprog.sh, but it
+    comes with validator support.
+    
+    USAGE: ./runprog.sh [cpp/java]
+
+
 
