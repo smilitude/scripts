@@ -15,4 +15,11 @@ This folder contains my shell scripts.
     
     usage : ./netshare.sh
 
+# runprog.sh
+    This bash script compiles and run a program
+    over multiple files and prints if it produced
+    correct output for all the files or not
+    
+    USAGE: ./runprog.sh [cpp/java]
+
 
