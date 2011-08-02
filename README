@@ -28,5 +28,13 @@ This folder contains my shell scripts.
     
     USAGE: ./runprog.sh [cpp/java]
 
+# runp_coci.sh
+     This bash script compiles and run a program
+     over multiple files for COCI and prints if it produced
+     correct output for all the files or not
+     
+     USAGE: ./runp_coci.sh [cpp/java]
+     you have to put the source in check.cpp / check.java
+
 
 
